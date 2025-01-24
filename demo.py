@@ -21,7 +21,7 @@ plt.scatter(X, y)
 plt.plot(X_new, y_predict, color='red', linewidth=2)
 plt.xlabel("X")
 plt.ylabel("y")
-plt.title("Linear Regression Example")
+plt.title("Linear Regression")
 plt.show()
 
 # Print the model parameters
